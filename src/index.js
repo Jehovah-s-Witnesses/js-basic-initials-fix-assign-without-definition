@@ -4,7 +4,7 @@ const name1 = prompt('Enter 1 name');
 
 result = `${result} ${name1}`;
 
-const name2 = 'Bohdan'
+const name2 = 'Bohdan';
 
 result = `${result} ${name2}`;
 
